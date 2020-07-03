@@ -4,8 +4,11 @@
 @import "base/typography";
 
 @import "layouts/header";
+
+@import "layouts/features";
+@import "layouts/homes";
+@import "layouts/gallery";
+@import "layouts/realtors";
+@import "layouts/sidebar";
+@import "layouts/story";
 @import "layouts/footer";
-
-
-@import "modules/sidebar";
-@import "modules/story";
